@@ -16,8 +16,8 @@
     - After all non-zero elements are placed,
       fill the remaining positions with zeroes.
 
-    Time Complexity: O(n)
-    Space Complexity: O(1)
+    Time Complexity -> O(n)
+    Space Complexity -> O(1)
 */
 
 class Solution {
