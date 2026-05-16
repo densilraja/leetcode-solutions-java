@@ -13,8 +13,8 @@
     - Add current element to the set.
     - Remove elements that move out of the window.
 
-    Time Complexity: O(n)
-    Space Complexity: O(k)
+    Time Complexity -> O(n)
+    Space Complexity -> O(k)
 */
 
 import java.util.HashSet;
